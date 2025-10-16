@@ -1,20 +1,19 @@
-<img width="902" height="729" alt="image" src="https://github.com/user-attachments/assets/68396fd0-eb73-440f-8b8a-f134d444dfc3" /><img width="594" height="714" alt="image" src="https://github.com/user-attachments/assets/56d6a36b-ae6d-4cbb-96a5-7098d36c1fb7" />
-<img width="594" height="706" alt="image" src="https://github.com/user-attachments/assets/761c849b-2844-4659-b6a2-74faa7e68a8a" />
-<img width="569" height="572" alt="image" src="https://github.com/user-attachments/assets/88731587-aa62-46ea-926b-9636082a14bc" />
-<img width="615" height="694" alt="image" src="https://github.com/user-attachments/assets/12b90f15-7e1a-48e2-aeb0-513071b12d3d" />
-<img width="571" height="710" alt="image" src="https://github.com/user-attachments/assets/9d1a5304-97ac-4d28-9760-293ba4f20155" />
-<img width="587" height="735" alt="image" src="https://github.com/user-attachments/assets/104211a0-c894-4839-a3cc-91646e714613" />
-<img width="567" height="721" alt="image" src="https://github.com/user-attachments/assets/bd993f49-6fca-4c85-bd9f-f1e821d1bb96" />
-<img width="656" height="729" alt="image" src="https://github.com/user-attachments/assets/409bfb7a-71e1-4858-a451-1e951e57e2c3" />
-<img width="557" height="714" alt="image" src="https://github.com/user-attachments/assets/7803c6c4-b930-4eee-9ce1-d1d8fdaa7181" />
-<img width="500" height="659" alt="image" src="https://github.com/user-attachments/assets/eb61370e-ea04-445d-a50e-d66e9dfeaa9f" />
-<img width="515" height="630" alt="image" src="https://github.com/user-attachments/assets/34335700-9970-473f-9143-cbc94f8b9d71" />
-<img width="504" height="628" alt="image" src="https://github.com/user-attachments/assets/4f5c51aa-92e4-4328-b48b-8c8a6f74014c" />
-<img width="585" height="662" alt="image" src="https://github.com/user-attachments/assets/94412461-9202-4204-8942-360e5717a856" />
-<img width="589" height="662" alt="image" src="https://github.com/user-attachments/assets/62f64e5c-ee80-4486-beba-a8e50ac79fcb" />
-<img width="620" height="663" alt="image" src="https://github.com/user-attachments/assets/c1c129ab-df43-4c31-ad2c-66fd729e9791" />
-<img width="667" height="728" alt="image" src="https://github.com/user-attachments/assets/4cb80580-26c8-464e-8d41-6c300274b264" />
-<img width="902" height="729" alt="image" src="https://github.com/user-attachments/assets/73f8fa29-1ef5-4fd4-a304-738fa5615197" />
-<img width="408" height="689" alt="image" src="https://github.com/user-attachments/assets/46997cb2-a8c4-4eb8-8944-dc7f6caa9290" />
-<img width="435" height="569" alt="image" src="https://github.com/user-attachments/assets/3298ac13-aa38-45cd-8a77-4712ae7bbdc5" />
-
+<img width="1920" height="1080" alt="Create Account" src="https://github.com/user-attachments/assets/af00452c-25a4-4dc5-8263-9fd392205c31" />
+<img width="1920" height="1080" alt="Login" src="https://github.com/user-attachments/assets/09b1047e-52ce-4a36-b690-324f33c81a17" />
+<img width="1920" height="1080" alt="Modify Account" src="https://github.com/user-attachments/assets/63ea145f-c01c-4baf-a489-68b9d35df175" />
+<img width="1920" height="1080" alt="Create Supplier Account" src="https://github.com/user-attachments/assets/c5d02052-095a-4733-8409-ea95e903a5b6" />
+<img width="1920" height="1080" alt="Book Service" src="https://github.com/user-attachments/assets/0c1bad36-c9ba-418e-8817-caa7af0dfc14" />
+<img width="1920" height="1080" alt="Reschedule Booking" src="https://github.com/user-attachments/assets/d3ee7f8b-94d0-4cb4-9215-d21a4992e4e4" />
+<img width="1920" height="1080" alt="Cancel Booking" src="https://github.com/user-attachments/assets/8f8bf6aa-fd10-4ed7-aa78-aefb48d66193" />
+<img width="1920" height="1080" alt="Send Feedback After Booking" src="https://github.com/user-attachments/assets/ba2248cf-5569-404b-8ba5-44efa7c87a46" />
+<img width="1920" height="1080" alt="Message Supplier" src="https://github.com/user-attachments/assets/91560b8a-1083-432b-8fb5-a6f5d07ea573" />
+<img width="1920" height="1080" alt="Create Portfolio" src="https://github.com/user-attachments/assets/f38d78aa-7935-4cb2-9a9c-4cdf509d729a" />
+<img width="1920" height="1080" alt="Edit Portfolio" src="https://github.com/user-attachments/assets/2f890926-96db-43af-bc99-99ec9faa5f55" />
+<img width="1920" height="1080" alt="View Portfolio" src="https://github.com/user-attachments/assets/6fee2f1b-4c89-40ff-8a5d-209073158adb" />
+<img width="1920" height="1080" alt="Onboard Supplier" src="https://github.com/user-attachments/assets/673204f9-4238-4433-8a8d-821b471f5f8f" />
+<img width="1920" height="1080" alt="Moderate Feedback" src="https://github.com/user-attachments/assets/f464b2bb-ce73-4416-90dd-c1864a082a7c" />
+<img width="1920" height="1080" alt="Moderate User" src="https://github.com/user-attachments/assets/5caa7d37-a379-4ffe-9746-ab975700a3ad" />
+<img width="1920" height="1080" alt="Generate Supplier Recommendations" src="https://github.com/user-attachments/assets/e85acb06-de59-4a14-9549-228d01f334da" />
+<img width="1920" height="1080" alt="Create Booking for Client" src="https://github.com/user-attachments/assets/512f1e6b-eb07-4fbd-abdc-8286cf79d5d4" />
+<img width="1920" height="1080" alt="Generate FAQs" src="https://github.com/user-attachments/assets/12d0d37d-3814-4f9d-be01-dd743aee6c54" />
+<img width="1920" height="1080" alt="View Dashboard Summary" src="https://github.com/user-attachments/assets/9bf91ca2-9516-4ce3-930f-84662234d346" />
